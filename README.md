@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building my aio server
+- 🔭 I’m currently working on building my AI Agent
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: Hit me up on the roadside
 
